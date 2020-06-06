@@ -670,6 +670,7 @@ text-align: left;
   color: #fff;
 }
 
+
 /*======================================
 //--//-->   ABOUT
 ======================================*/
@@ -967,7 +968,7 @@ text-align: left;
   margin: 1rem 0;
 }
 
-.blog-wrapper .post-meta ul {
+/*.blog-wrapper .post-meta ul {
   border-left: 4px solid #0078ff;
   margin-top: 1rem;
 }
@@ -975,7 +976,7 @@ text-align: left;
 .blog-wrapper .post-meta ul li {
   display: inline-block;
   margin-left: 15px;
-}
+}*/
 
 .blog-wrapper .post-meta ul a {
   color: #0078ff;
@@ -985,11 +986,11 @@ text-align: left;
   color: #1e1e1e;
 }
 
-.blog-wrapper .blockquote {
+/*.blog-wrapper .blockquote {
   border-left: 4px solid #0078ff;
   padding: 18px;
   font-style: italic;
-}
+}*/
 .article-content{
   text-align: left;
 }
@@ -1301,3 +1302,8 @@ footer .credits a {
   }
 }
 
+.colb{
+  flex:100%;
+  max-width:100%;
+  
+}
